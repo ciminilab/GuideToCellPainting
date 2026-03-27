@@ -1,2 +1,2 @@
-# Guide_To_Cell_Painting
-Overview of resources for biologists interested in Cell Painting. Covers introduction, application, modification, image analysis, profile generation, biology exploration, and more!
+# Guide To Cell Painting
+Repository that builds our [Guide to Cell Painting website](http://ciminilab.github.io/GuideToCellPainting).

@@ -24,3 +24,8 @@ header {
 header h1, header h2 {
   color: #333333 !important;
 }
+
+/* 3. HIDE THE GITHUB BUTTON IN THE HEADER */
+header .button {
+  display: none !important;
+}

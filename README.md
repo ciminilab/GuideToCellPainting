@@ -1,5 +1,3 @@
-# Guide to Cell Painting for Biologists
-
 So you’re a biologist interested in Cell Painting and don’t know where to get started? We’ve got you covered! For each question below, we’ve arranged the resources in increasing order of detail and/or specificity, so you may find that you don’t need to interact with every resource to glean the information you need.
 
 ## What is Cell Painting?

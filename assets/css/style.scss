@@ -1,0 +1,26 @@
+---
+---
+/* Import the base Architect theme */
+@import "{{ site.theme }}";
+
+/* 1. CHANGE THE FONT */
+/* Import a custom font from Google Fonts (e.g., 'Open Sans') */
+@import url('https://fonts.googleapis.com/css2?family=Funnel+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Funnel Sans', sans-serif !important;
+}
+
+/* 2. CHANGE THE HEADER BACKGROUND TO A SOFT RAINBOW GRADIENT */
+header {
+  /* A soft, pastel rainbow gradient flowing from left to right */
+  background-image: linear-gradient(to bottom right, #ffb3ba, #ffdfba, #ffffba, #baffc9, #bae1ff, #e8baff) !important;
+  
+  /* Optional: Adjust text color if the white default is too hard to read against the pastel background */
+  color: #333333 !important; 
+}
+
+/* Ensure the header text uses the dark color */
+header h1, header h2 {
+  color: #333333 !important;
+}

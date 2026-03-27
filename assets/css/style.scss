@@ -29,3 +29,15 @@ header h1, header h2 {
 header .button {
   display: none !important;
 }
+
+/* 4. HIDE THE AUTOMATIC SUBHEADING */
+header h2 {
+  display: none !important;
+}
+
+/* 5. ALLOW THE MAIN TITLE TO FILL THE ENTIRE HEADER */
+header h1 {
+  float: none !important;      /* Stops it from crunching to the left */
+  width: 100% !important;      /* Tells it to take up all available space */
+  text-align: center !important; /* Centers the text perfectly. Change to 'left' if you prefer! */
+}

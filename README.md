@@ -36,7 +36,7 @@ You sure can! The Cell Painting Assay is very robust to changes.
 
 - Read the blog post [How to Normalize Cell Painting Data](https://carpenter-singh-lab.broadinstitute.org/blog/how-normalize-cell-painting-data)  
 - For a big picture overview, read the paper [Data-analysis strategies for image-based cell profiling](https://www.nature.com/articles/nmeth.4397)  
-- Read about the metric we use for quantifying phenotypic strength in [A versatile information retrieval framework for evaluating profile strength and similarity](http://doi.org/10.1038/s41467-025-60306-2)
+- Read about the metrics we use to quantify phenotypic profile activity (strength), consistency, and distinctiveness in [A versatile information retrieval framework for evaluating profile strength and similarity](http://doi.org/10.1038/s41467-025-60306-2). The JUMP Hub defines these metrics in plain language in its [Glossary](https://broadinstitute.github.io/jump_hub/reference/glossary.html).
 
 ## I have profiles made from Cell Painting data. How do I explore biology in them?
 

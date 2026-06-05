@@ -53,7 +53,8 @@ You sure can! The Cell Painting Assay is very robust to changes.
 
 ## How do I find published Cell Painting data to explore?
 
-- The Cell Painting Gallery hosts a LOT of published Cell Painting data and is free to access. Read [Cell Painting Gallery Documentation](https://broadinstitute.github.io/cellpainting-gallery/overview.html).  
+- The Cell Painting Gallery hosts a LOT of published Cell Painting data and is free to access. Watch Ask Erin Dear Beth Episode 16 - [The Cell Painting Gallery, an Overview](https://youtu.be/5CtNWt0_FLk)
+- Read [Cell Painting Gallery Documentation](https://broadinstitute.github.io/cellpainting-gallery/overview.html).  
 - [JUMP Hub](https://broadinstitute.github.io/jump_hub/howto/interactive/0_overview.html) has a set of introductory and advanced data exploration tools for JUMP, a single large Cell Painting dataset.
 
 ## I need more help. What should I do?

@@ -60,3 +60,4 @@ You sure can! The Cell Painting Assay is very robust to changes.
 
 - Ask questions in the [https://forum.image.sc/](https://forum.image.sc/) or search there through the rich archive of other people’s questions.  
 - Get a hold of us! See [Collaborating with the Imaging Platform](https://cimini-lab.broadinstitute.org/collaboration) for the ways that we can help you.
+- Ask us a question to be answered on the [Ask Erin Dear Beth Podcast](https://www.youtube.com/@AskErinDearBeth)! Here's our [submission form](https://broad.io/AskErinDearBeth).

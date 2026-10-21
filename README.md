@@ -57,6 +57,12 @@ You sure can! The Cell Painting Assay is very robust to changes.
 - Read [Cell Painting Gallery Documentation](https://broadinstitute.github.io/cellpainting-gallery/overview.html).  
 - [JUMP Hub](https://broadinstitute.github.io/jump_hub/howto/interactive/0_overview.html) has a set of introductory and advanced data exploration tools for JUMP, a single large Cell Painting dataset.
 
+## How do I learn more about Pooled Cell Painting?
+
+- Start by watching Ask Erin Dear Beth Episode 29 - [Intro to Pooled Cell Painting](https://youtu.be/xhYO_ZX3z44) for a casual podcast explanation.
+- Watch [this talk](https://seqera.io/events/cellpainting-broad-institute/) on the most recent major version of our image analysis workflow.
+- Read the documentation for our Pooled Cell Painting [image analysis workflow](https://broadinstitute.github.io/nf-pooled-cellpainting/) and [data analysis workflow](https://broadinstitute.github.io/pooled-cell-painting-profiling-recipe/).
+
 ## I need more help. What should I do?
 
 - Ask questions in the [https://forum.image.sc/](https://forum.image.sc/) or search there through the rich archive of other people’s questions.  
